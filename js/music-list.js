@@ -155,4 +155,10 @@ let allMusic = [
     img: "./covers/shania.jpg",
     src: "https://archive.org/download/patrick-swayze-she-s-like-the-wind/Shania%20Twain%20-%20You_re%20Still%20The%20One.mp3"
   },
+  {
+    name: "Coming Around Again",
+    artist: "Carly Simon",
+    img: "./covers/carly-simon.jpg",
+    src: "https://archive.org/download/carly-simon-coming-around-again_202406/Carly-Simon%20-%20Coming_Around_Again.mp3"
+  },
 ];
