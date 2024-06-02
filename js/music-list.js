@@ -170,7 +170,7 @@ let allMusic = [
   {
     name: "Father And Son",
     artist: "Boyzone",
-    img: "./covers/roxette.jpg",
+    img: "./covers/boyzone.jpg",
     src: "https://archive.org/download/boyzone-father-and-son/Boyzone-Father_And_Son.mp3"
   },
 ];
