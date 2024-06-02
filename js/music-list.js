@@ -161,4 +161,10 @@ let allMusic = [
     img: "./covers/carly-simon.jpg",
     src: "https://archive.org/download/carly-simon-coming-around-again_202406/Carly-Simon%20-%20Coming_Around_Again.mp3"
   },
+  {
+    name: "Wish I Could Fly",
+    artist: "Roxette",
+    img: "./covers/roxette.jpg",
+    src: "https://archive.org/download/roxette-wish-i-could-fly/Roxette-Wish_I_Could_Fly.mp3"
+  },
 ];
