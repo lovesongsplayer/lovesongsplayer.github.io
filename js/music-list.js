@@ -143,4 +143,16 @@ let allMusic = [
     img: "./covers/duranduran.jpg",
     src: "https://archive.org/download/a-matter-of-feeling-1/A_Matter_of_Feeling~1.mp3"
   },
+  {
+    name: "She's Like The Wind",
+    artist: "Patrick Swayze",
+    img: "./covers/patrick-swayze.jpg",
+    src: "https://archive.org/download/patrick-swayze-she-s-like-the-wind/Patrick%20Swayze%20-%20She_s%20Like%20The%20Wind.mp3"
+  },
+  {
+    name: "You're Still The One",
+    artist: "Shania Twain",
+    img: "./covers/shania.jpg",
+    src: "https://archive.org/download/patrick-swayze-she-s-like-the-wind/Shania%20Twain%20-%20You_re%20Still%20The%20One.mp3"
+  },
 ];
