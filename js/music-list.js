@@ -167,4 +167,10 @@ let allMusic = [
     img: "./covers/roxette.jpg",
     src: "https://archive.org/download/roxette-wish-i-could-fly/Roxette-Wish_I_Could_Fly.mp3"
   },
+  {
+    name: "Father And Son",
+    artist: "Boyzone",
+    img: "./covers/roxette.jpg",
+    src: "https://archive.org/download/boyzone-father-and-son/Boyzone-Father_And_Son.mp3.mp3"
+  },
 ];
