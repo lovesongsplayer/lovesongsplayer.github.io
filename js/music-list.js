@@ -179,4 +179,10 @@ let allMusic = [
     img: "./covers/george-michael.jpg",
     src: "https://archive.org/download/george-michael-praying-for-time_202406/George-Michael_Praying_For_Time.mp3"
   },
+  {
+    name: "Penny Lover",
+    artist: "PLionel Richie",
+    img: "./covers/cover-19.jpg",
+    src: "https://archive.org/download/lionel-richie-penny-lover/Lionel-Richie_Penny-Lover.mp3"
+  },
 ];
