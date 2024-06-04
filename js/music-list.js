@@ -173,4 +173,10 @@ let allMusic = [
     img: "./covers/boyzone.jpg",
     src: "https://archive.org/download/boyzone-father-and-son/Boyzone-Father_And_Son.mp3"
   },
+  {
+    name: "Praying For Time",
+    artist: "George Michael",
+    img: "./covers/george-michael.jpg",
+    src: "https://archive.org/download/george-michael-praying-for-time_202406/George-Michael_Praying_For_Time.mp3"
+  },
 ];
