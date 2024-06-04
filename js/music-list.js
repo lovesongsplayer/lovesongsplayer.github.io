@@ -181,7 +181,7 @@ let allMusic = [
   },
   {
     name: "Penny Lover",
-    artist: "PLionel Richie",
+    artist: "Lionel Richie",
     img: "./covers/cover-19.jpg",
     src: "https://archive.org/download/lionel-richie-penny-lover/Lionel-Richie_Penny-Lover.mp3"
   },
