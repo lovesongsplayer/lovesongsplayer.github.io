@@ -185,4 +185,10 @@ let allMusic = [
     img: "./covers/cover-19.jpg",
     src: "https://archive.org/download/lionel-richie-penny-lover/Lionel-Richie_Penny-Lover.mp3"
   },
+  {
+    name: "Still Got The Blues",
+    artist: "Gary Moore",
+    img: "./covers/garymoore.jpg",
+    src: "https://archive.org/download/gary-moore-still-got-the-blues_202406/Gary_Moore-Still-Got-The-Blues.mp3"
+  },
 ];
